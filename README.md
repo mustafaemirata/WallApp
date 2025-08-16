@@ -1,16 +1,35 @@
-# ig
+# The Wall App
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş bir sosyal medya uygulamasının başlangıç versiyonudur. Kullanıcılar kendi duvarlarına yazı yazabilir, profillerinde görebilir, diğer kullanıcıların paylaşımlarını görebilir ve etkileşimde bulunabilirler.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- **Kendi Duvarımız**: Kullanıcılar kendi duvarına yazı yazabilir ve profilde görebilir.  
+- **HomePage**: Tüm kullanıcıların paylaşımları burada listelenir.  
+- **Beğenme (Like)**: Gönderiler beğenilebilir ve beğeni sayıları görüntülenir.  
+- **Yorum Yapma**: Kullanıcılar gönderilere yorum yapabilir.  
+- **Profil Düzenleme**: Kullanıcılar `username` ve `bio` gibi bilgilerini güncelleyebilir.  
+- **Ayarlar**: Uygulama ayarları ve kullanıcı bilgilerini yönetme imkanı.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Görseller
+- **kayıt ekranı (Sign Up / Login)**  
+  ![Kayıt](github_repo/kayit.png)
+
+- **menu (menu)**  
+  ![HomePage](github_repo/menu.png)
+
+- **anasayfa (HomePage)**  
+  ![HomePage](github_repo/home.png)
+
+
+
+- **profil ekranı (Profile Page)**  
+  ![Profil](github_repo/profil.png)
+
+
+
+---
